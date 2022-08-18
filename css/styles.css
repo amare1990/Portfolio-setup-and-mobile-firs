@@ -2,9 +2,9 @@ body{
     background-image: url('images/header-background-mobile.png');
     height: 718px;
     width: 375px;
+
     left: 0px;
     top: 0px; 
-    border-radius: [object Object]px;
 
 
     font-family: 'Poppins';
@@ -12,6 +12,12 @@ body{
     font-weight: 400;
     font-size: 16px;
     line-height: 24px;
+  
+}
+
+.container{
+    width: 80%;
+    margin: auto;
 }
 
 .my-logo{
@@ -22,9 +28,11 @@ body{
 li a i{
     width: 375px;
     height: 48px;
-     position: absolute;
-     visibility: hidden;
-     left: 0px;
-     right: 0px;
-     bottom: 0px;
+    
+}
+
+.header{
+    width: ;
+    display: flex;
+    justify-content: space-between;
 }
