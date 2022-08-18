@@ -22,7 +22,18 @@ body{
     margin: auto;
 }
 
+.rectangle-6{
+    position: absolute;
+    height: 9.30072805575735px;
+    width: 51.98982738475592px;
+    left: -34px;
+    top: 141.48681640625px;
+    border-radius: 0px;
+    background: #EBEBFF;
 
+    transform: rotate(-46.14deg);
+
+}
 .ellipse-11{
     position: absolute;
     height: 19.251697171061814px;
