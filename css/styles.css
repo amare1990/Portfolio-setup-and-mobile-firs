@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0%;
   box-sizing: border-box;
+
 }
 
 body {
@@ -12,18 +13,21 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px;  
+  line-height: 24px; 
+
 }
 
 .container {
   position: relative; 
+
   /* background-image: url('images/header-background-mobile.png'); */
 
   height: 718px;
   width: 375px;
   left: 0px;
   top: 0px; 
-  background: #FFFFFF;    
+  background: #ffffff;  
+
 }
 
 .rectangle-6 {
@@ -35,6 +39,7 @@ body {
   border-radius: 0px;
   background: #EBEBFF;
   transform: rotate(-46.14deg);
+
 }
 
 .ellipse-11 {
@@ -48,6 +53,7 @@ body {
 
   color: #6070FF;
   transform: rotate(-156.88deg);
+
 }
 
 .ellipse-8 {
@@ -62,6 +68,7 @@ body {
 
   color: #FFFFFF;
   box-sizing: border-box;
+
 }
 
 .ellipse-5 {
@@ -72,6 +79,7 @@ body {
   top: 155.8089599609375px;
   color: #CBCDFF;
   border-radius: 0px; 
+
 }
 
 .rectangle-7 {
@@ -83,6 +91,7 @@ body {
   border-radius: 0px;
   color: #6070ff;
   transform: matrix(0.76, 0.65, 0.65, -0.76, 0, 0);
+
 }
 
 .ellipse-3 {
@@ -93,6 +102,7 @@ body {
   top: 152.23828125px;
   border-radius: 0px;
   color: #6070FF;
+
 }
 
 .ellipse-12 {
@@ -104,6 +114,7 @@ body {
   border-radius: 0px;    
   color: #6070FF;
   transform: rotate(-176.08deg);
+
 }
 
 .ellipse-13 {
@@ -115,6 +126,7 @@ body {
   border-radius: 0px;
   background: #EBEBFF;
   transform: rotate(69.41deg);
+
 }
 
 .ellipse-4 {
@@ -124,9 +136,11 @@ body {
   left: 237px;
   top: 657.0955810546875px;
   border-radius: 0px;
+
   /*background: #6070FF;*/
 
   color: #6070FF;
+
 }
 
 .rectangle-5 {
@@ -136,10 +150,12 @@ body {
   left: 191.82421875px;
   top: 652.9998779296875px;
   border-radius: 0px;
+
   /*background: #EBEBFF;*/
 
   color: #EBEBFF;
   transform: rotate(23.34deg);
+
 }
 
 .my-logo {
@@ -152,15 +168,18 @@ body {
   display: flex;
   align-items: center;
   text-align: center;
+
 }
 
 li {
   list-style: none;
+
 }
 
 li a {
   text-decoration-style: none;
   position: relative;
+
 }
 
 li a i {
@@ -171,7 +190,8 @@ li a i {
   bottom: 70.83%;
   color: #6070FF;
   height: 0px;
-  width: 16px;     
+  width: 16px;  
+
 }
 
 .header { 
@@ -179,10 +199,12 @@ li a i {
   display: flex;
   justify-content: space-between;
   margin: 0px 24px 0px 24px;
+
 }
 
 .section-about {
   margin: 0 24px 0 24px;
+
 }
 
 .name-welcome {
@@ -198,11 +220,13 @@ li a i {
   display: flex;
   align-items: center;
   margin: 128px 0px 12px 0px;
+
 }
 
 .description-of-me {
   color: #344563;
   margin-bottom: 12px;
+
 }
 
 .lets-connect-statement {
@@ -214,10 +238,12 @@ li a i {
   top: 0px;
   margin-bottom: 14px;
   text-transform: uppercase;
+
 }
 
 .contact-with-social {
   color: #7F8CFF;
+
 }
 
 .social-networks .social-network i {
@@ -225,10 +251,12 @@ li a i {
   padding-right: 5px;
   font-size: 20px;
   font-weight: 700;
+
 }
 
 .social-networks .social-network i:hover {
   color: #6070FF;
   box-shadow: 0px 8px 16px rgb(64, 83, 252, 0.24);
   border-radius: 8px;
+  
 }
