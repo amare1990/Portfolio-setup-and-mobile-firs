@@ -1,20 +1,17 @@
 # Portfolio-setup-and-mobile-firs
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Project Name
 
-> Description the project.
+This project is to develop the two sections of a Portfolio. It is mainly meant to setup the portfolio. 
+Setting up HTML/CSS linter to the repository, adding Github workflows, creating .gitignore file and adding files to be ignored in committing are the intial tasks done to develop this initial version of the two sections of the Portfolio. Then after, Figma is used to extract images and some CSS attributes and values. Therefore, the hero section of the Portfolio web application for mobile devices is developed in this project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: HTML, CSS
+- No Frameworks used
+- Technologies used: VS code, Git, Github, linters, Github workflows
 
 ## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -43,15 +40,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/amare1990)
+- email address: amaremek@gmail.com
 
 ## 🤝 Contributing
 
