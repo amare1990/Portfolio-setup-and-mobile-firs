@@ -78,7 +78,6 @@ body {
   width: 26.461844112359724px;
   left: 127.1845703125px;
   top: 151.5853271484375px;
-  border-radius: 0px;
   color: #6070ff;
   transform: matrix(0.76, 0.65, 0.65, -0.76, 0, 0);
 }
@@ -89,7 +88,6 @@ body {
   width: 105px;
   left: 323px;
   top: 152.23828125px;
-  border-radius: 0px;
   color: #6070ff;
 }
 
@@ -99,7 +97,6 @@ body {
   width: 34px;
   left: 341.7578125px;
   top: 546.6923828125px;
-  border-radius: 0px;
   color: #6070ff;
   transform: rotate(-176.08deg);
 }
@@ -121,7 +118,7 @@ body {
   left: 237px;
   top: 657.0955810546875px;
 
-  /*background: #6070FF;*/
+  /* background: #6070FF; */
 
   color: #6070ff;
 }
@@ -133,7 +130,7 @@ body {
   left: 191.82421875px;
   top: 652.9998779296875px;
 
-  /*background: #EBEBFF;*/
+  /* background: #EBEBFF; */
 
   color: #ebebff;
   transform: rotate(23.34deg);
@@ -174,11 +171,13 @@ li a i {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  margin: 0px 24px 0px 24px;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 
 .section-about {
-  margin: 0 24px 0 24px;
+  margin-left: 24px;
+  margin-right: 24px;
 }
 
 .name-welcome {
@@ -193,7 +192,8 @@ li a i {
   top: 114px;
   display: flex;
   align-items: center;
-  margin: 128px 0px 12px 0px;
+  margin-top: 128px;
+  margin-bottom: 12px;
 }
 
 .description-of-me {
@@ -223,7 +223,6 @@ li a i {
 
 .social-networks .social-network i:hover {
   color: #6070ff;
-  box-shadow: 0px 8px 16px rgb(64, 83, 252, 0.24);
+  box-shadow: 0.001px 8px 16px rgb(64, 83, 252, 0.24);
   border-radius: 8px;
 }
-
