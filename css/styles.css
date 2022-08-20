@@ -12,7 +12,7 @@ body {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
-  line-height: 24px; 
+  line-height: 24px;
 }
 
 .container {
@@ -42,7 +42,7 @@ body {
   left: 16.0419921875px;
   top: 161.4661865234375px;
 
-  /*background: #6070FF;*/
+  /* background: #6070FF; */
 
   color: #6070ff;
   transform: rotate(-156.88deg);
@@ -54,10 +54,9 @@ body {
   width: 15px;
   left: 214px;
   top: 110px;
-  border-radius: 0px;
   border: 1px solid #cbcdff;
 
-  /*background: #FFFFFF;*/
+  /* background: #FFFFFF; */
 
   color: #fff;
   box-sizing: border-box;
